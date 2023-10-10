@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "Name": "Rahuf",
+      "DOB": "1999-11-11",
+      "Height": 165,
+      "City": "Kochi",
+      "State": "Kerala"
+    },
+    {
+      "Name": "Anna",
+      "DOB": "2002-06-20",
+      "Height": 153,
+      "City": "Chennai",
+      "State": "Tamil Nadu"
+    },
+    {
+      "Name": "Varun",
+      "DOB": "1997-04-10",
+      "Height": 70,
+      "City": "Mumbai",
+      "State": "Maharashtra"
+    },
+    {
+      "Name": "Dipesh",
+      "DOB": "1996-11-15",
+      "Height": 168,
+      "City": "Banglore",
+      "State": "Karnataka"
+    },
+    {
+      "Name": "Amal",
+      "DOB": "1999-12-20",
+      "Height": 172,
+      "City": "Hyderabad",
+      "State": "Andra Pradesh"
+    }
+  ]
+}
+  
